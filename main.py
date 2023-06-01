@@ -109,7 +109,7 @@ def decode_menu():
 def display_about():
     clear_screen()
     print("===== About =====")
-    print("Made with love, by PWDSerialgamer07")
+    print("Made with love, by PWDSerialgamer07(Serial)")
     input("Press Enter to continue...")
 
 
