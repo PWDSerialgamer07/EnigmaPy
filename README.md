@@ -4,4 +4,4 @@ A small python tool that allows you to encode and decode stuff according to a ke
 
 # Requirements:
 
-..\* Pyperclip
+..\*Pyperclip
